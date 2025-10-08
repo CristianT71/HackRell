@@ -1,6 +1,6 @@
 # HackRell - Suite de Hacking Ético Profesional
 
-![HackRell Banner](https://raw.githubusercontent.com/CristianT71/HackRell/main/assets/hackrell_banner.png) <!-- Placeholder para un banner ASCII o imagen -->
+![HackRell Banner](https://copilot.microsoft.com/th/id/BCO.6b6b4868-27ee-4ea1-8a82-0b4ac248bcb9.png)
 
 ## Descripción
 
@@ -128,5 +128,6 @@ Este proyecto está bajo la Licencia MIT. Consulte el archivo `LICENSE` para má
 Para preguntas o sugerencias, puede contactar al autor a través de GitHub.
 
 --- 
+
 
 **© 2025 CristianT71**
